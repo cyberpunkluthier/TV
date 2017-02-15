@@ -141,7 +141,7 @@
   <armgcccpp.preprocessingassembler.debugging.DebugLevel>Default (-Wa,-g)</armgcccpp.preprocessingassembler.debugging.DebugLevel>
 </ArmGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries;C:/Users/marcos/Documents/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/cores/arduino;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/variants/eightanaloginputs;../../../TV;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/avr/include/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2//avr/include/avr/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Arduino/libraries/TVout;C:/Program Files (x86)/Arduino/libraries/TVout/utility;C:/Program Files (x86)/Arduino/libraries/TVoutfonts;C:/Program Files (x86)/Arduino/libraries/TVoutfonts/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries;C:/Users/marcos/Documents/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/cores/arduino;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/variants/eightanaloginputs;../../../TV;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/avr/include/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2//avr/include/avr/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Arduino/libraries/TVout;C:/Program Files (x86)/Arduino/libraries/TVout/utility;C:/Program Files (x86)/Arduino/libraries/TVoutfonts;C:/Program Files (x86)/Arduino/libraries/TVoutfonts/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries/SoftwareSerial/src;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries/SoftwareSerial/src/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
         <ValidatedAS7>1</ValidatedAS7>
@@ -531,7 +531,7 @@ build.arch=AVR
   <armgcccpp.preprocessingassembler.debugging.DebugLevel>Default (-Wa,-g)</armgcccpp.preprocessingassembler.debugging.DebugLevel>
 </ArmGccCpp>
     </ToolchainSettings>
-    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries;C:/Users/marcos/Documents/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/cores/arduino;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/variants/eightanaloginputs;../../../TV;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/avr/include/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2//avr/include/avr/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Arduino/libraries/TVout;C:/Program Files (x86)/Arduino/libraries/TVout/utility;C:/Program Files (x86)/Arduino/libraries/TVoutfonts;C:/Program Files (x86)/Arduino/libraries/TVoutfonts/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers;</VMSETTING_IncludePaths>
+    <VMSETTING_IncludePaths>C:/Program Files (x86)/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries;C:/Users/marcos/Documents/Arduino/libraries;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/cores/arduino;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/variants/eightanaloginputs;../../../TV;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/avr/include/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2//avr/include/avr/;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.3-arduino2/lib/gcc/avr/4.8.1/include;C:/Program Files (x86)/Arduino/libraries/TVout;C:/Program Files (x86)/Arduino/libraries/TVout/utility;C:/Program Files (x86)/Arduino/libraries/TVoutfonts;C:/Program Files (x86)/Arduino/libraries/TVoutfonts/utility;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers/VM_DBG;C:/Program Files (x86)/Atmel/Studio/7.0/Extensions/wa3zpt12.dcw/Micro Platforms/default/debuggers;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries/SoftwareSerial/src;C:/Users/marcos/AppData/Local/arduino15/packages/arduino/hardware/avr/1.6.17/libraries/SoftwareSerial/src/utility;</VMSETTING_IncludePaths>
     <VisualMicroSettings>
       <VisualMicroSettings>
         <ValidatedAS7>1</ValidatedAS7>
@@ -820,6 +820,12 @@ build.arch=AVR
     </VisualMicroSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Point.h">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="Polygon.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="TV.ino">
       <SubType>compile</SubType>
     </Compile>
@@ -828,6 +834,7 @@ build.arch=AVR
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="geometry" />
     <Folder Include="__vm\" />
   </ItemGroup>
   <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
